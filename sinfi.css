@@ -197,3 +197,23 @@ span{
     font-size:18px;
     line-height:30px;
 }
+
+
+
+.sur
+{
+    width: 100%;
+    height: 500px;
+    margin-top: 30px;
+background-image: url(/Background\ \(5\).png);
+background-repeat: no-repeat;
+background-size: cover;
+    background-color: rgb(255, 255, 255);
+    color: white;
+    text-align: center;
+}
+
+.sur h1
+{
+padding-top: 150px;
+}
