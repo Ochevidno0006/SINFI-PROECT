@@ -1,0 +1,54 @@
+*{
+    margin:0;
+  
+}
+
+.nav{
+    width:90%;
+    height:90px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:10px;
+  
+    margin: auto;
+}
+
+.logo{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+
+.logo1{
+    width:130px;
+}
+
+.txt1{
+    font-size:32px;
+    font-weight:bold;
+}
+
+.menu{
+    display:flex;
+    gap:50px;
+    color:gray;
+}
+
+.m1
+{
+    font-size: 20px;
+}
+
+.btn1{
+    width:120px;
+    height:50px;
+    background:#25c7ff;
+    border-radius:8px;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border: none;
+    
+}
